@@ -13,7 +13,7 @@ public class Check_AND_OR {
 
 
         System.out.println("THE RESULT OF AND OPERATION IS  "+AND);
-        System.out.println("THE RESULT OF AND OPERATION IS  "+OR);
+        System.out.println("THE RESULT OF OR  OPERATION IS  "+OR);
 
 
 
